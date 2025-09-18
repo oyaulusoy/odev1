@@ -1,0 +1,9 @@
+personeller:
+  - ad: Ayşe
+    soyad: Yılmaz
+    departman: İnsan Kaynakları
+    dogumTarihi: 1985-03-12
+  - ad: Mehmet
+    soyad: Kaya
+    departman: Bilgi Teknolojileri
+    dogumTarihi: 1990-07-25
